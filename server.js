@@ -1,1 +1,1 @@
-require('./insert');
+require('./displayAuthors.js');
