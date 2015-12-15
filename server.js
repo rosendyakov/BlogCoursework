@@ -1,1 +1,1 @@
-require('./displayAuthors.js');
+require('./displayAuthors');
