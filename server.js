@@ -1,1 +1,1 @@
-require('./retrieve');
+require('./structure');
