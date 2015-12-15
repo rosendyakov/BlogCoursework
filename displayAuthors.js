@@ -39,7 +39,7 @@ http.createServer(function(request, response) {
                 if (err) {
                     response.write(err);
                 } else {
-                    response.write('Fetched: ' + result.name + " : " + result.age + " : " + result.roles.toString() +'\n');
+                    response.write('Fetched: ' + result.name + " : " + result.age + " : " + result.role.toString() +'\n');
                 }
             });
             // do some work here with the database.
